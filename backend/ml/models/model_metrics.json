@@ -1,0 +1,1 @@
+{"modelVersion": "logistic-numpy-v1.2", "trainedSamples": 1000, "testSamples": 200, "accuracy": 89.5, "precision": 87.0, "recall": 83.3, "f1Score": 85.1, "rocAuc": 92.5, "featureWeights": {"blocked": 1.45, "priority_score": 1.05, "urgency_score": 1.35, "overrun_ratio": 1.1, "overload_ratio": 1.25}, "intercept": -2.15, "status": "active"}
